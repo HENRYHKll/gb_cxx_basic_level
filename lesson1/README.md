@@ -14,6 +14,7 @@
 Fedora33 linux 
 ```sh
 $ git clone https://github.com/HENRYHKll/gb_cxx_basic_level.git
+$
 $ #home work
 $ g++ -E main.cxx -o main.ii
 $ g++ -S main.ii -o main.s
