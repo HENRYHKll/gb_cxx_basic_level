@@ -24,7 +24,7 @@ $  11	.string	"Hello Wolrd!" //- make edit "Bye bye Wolrd!"
 $ as main.s -o main.o
 $ g++ main.o -o main
 $ ./main
-$ #Bye bey Wolrd!
+$ #Bye bye Wolrd!
 $
 $ #build Project
 $ mkdir build
