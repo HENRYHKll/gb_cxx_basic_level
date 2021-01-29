@@ -8,7 +8,7 @@ _ZStL19piecewise_construct:
 	.local	_ZStL8__ioinit
 	.comm	_ZStL8__ioinit,1,1
 .LC0:
-	.string	"Bye bey Wolrd!"
+	.string	"Bye bye Wolrd!"
 	.text
 	.globl	main
 	.type	main, @function
