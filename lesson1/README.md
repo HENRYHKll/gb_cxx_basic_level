@@ -17,6 +17,7 @@ $ git clone https://github.com/HENRYHKll/gb_cxx_basic_level.git
 $ #home work
 $ g++ -E main.cxx -o main.ii
 $ g++ -S main.ii -o main.s
+$ nano main.s
 $  10 .LC0:
 $  11	.string	"Hello Wolrd!" //- make edit "Bye bye Wolrd!"
 $ as main.s -o main.o
