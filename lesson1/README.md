@@ -27,7 +27,6 @@ $ #Bye bey Wolrd!
 $
 $ #build Project
 $ mkdir build
-$ cd build
-$ cmake -G Ninja .. 
-$ cmake --build .
+$ cd build && cmake ../ -G Ninja
+$ cmake --build ./
 ```
