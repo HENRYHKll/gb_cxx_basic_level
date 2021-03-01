@@ -9,4 +9,6 @@ add_subdirectory(lesson4)
 add_subdirectory(lesson5)
 add_subdirectory(lesson6)
 add_subdirectory(lesson7)
+add_subdirectory(lesson8)
+
 
